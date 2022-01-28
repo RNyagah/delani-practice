@@ -12,7 +12,7 @@ html {
 body{
     text-align: center;
 }
-#welcome{
+.welcome{
     background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true');
     background-size: cover;
     background-attachment: fixed;
@@ -31,11 +31,11 @@ body{
 
 #about {
 
-    margin: 60px auto;
+    margin: 50px auto;
 }
 
 #services {
-    
+    /* font-size: calc(1vw + 1vh + .5vmin); */
     background-image: url('https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/s_image.jpg?raw=true');
     color: white;
     padding: 100px 10%;
